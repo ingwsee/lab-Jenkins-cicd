@@ -130,9 +130,9 @@
                             <version>0.2.0</version>
                         </path>
                     </annotationProcessorPaths>
-                    <compilerArguments>
+                    <compilerArgs>
                         <endorseddirs>${endorsed.dir}</endorseddirs>
-                    </compilerArguments>
+                    </compilerArgs>
                 </configuration>
             </plugin> 
         </plugins>
